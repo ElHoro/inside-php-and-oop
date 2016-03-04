@@ -3,7 +3,7 @@
     <title>Ejemplo 2</title>
   </head>
   <body>
-    <h1>Ejercicio 2:</h1>
+    <h1>Ejercicio 2: Atributos de una clase</h1>
     <p>Confeccionar una clase Menu. Permitir añadir la cantidad de opciones que necesitemos. Mostrar el menú en forma horizontal o vertical (según que método llamemos.</p>
 
 <?php

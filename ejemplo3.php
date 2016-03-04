@@ -3,7 +3,7 @@
     <title>Ejemplo 3</title>
   </head>
   <body>
-    <h1>Ejercicio 3:</h1>
+    <h1>Ejercicio 3: Métodos de una clase.</h1>
     <p>Confeccionar una clase CabeceraPagina que permita mostrar un título, indicarle si queremos que aparezca centrado, a derecha o izquierda, además permitir definir el color de fondo y de la fuente.</p>
 
 <?php

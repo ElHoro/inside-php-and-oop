@@ -3,7 +3,7 @@
     <title>Ejemplo 4</title>
   </head>
   <body>
-    <h1>Ejercicio 4:</h1>
+    <h1>Ejercicio 4: Llamada de métodos dentro de la clase</h1>
     <p>Confeccionar una clase Tabla que permita indicarle en el constructor la cantidad de filas y columnas. Definir otra responsabilidad que podamos cargar un dato en una determinada fila y columna además de definir su color de fuente y fondo. Finalmente debe mostrar los datos en una tabla HTML.</p>
 
 <?php

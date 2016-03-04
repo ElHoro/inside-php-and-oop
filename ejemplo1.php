@@ -3,7 +3,7 @@
     <title>Ejemplo 1</title>
   </head>
   <body>
-    <h1>Ejercicio 1:</h1>
+    <h1>Ejercicio 1: Declaración de clases y creació de ojetos</h1>
     <p>Confeccionar una clase Empleado, definir como atributos su nombre y sueldo.
 Definir un método inicializar que lleguen como dato el nombre y sueldo. Plantear un segundo método que imprima el nombre y un mensaje si debe o no pagar impuestos (si el sueldo supera a 3000 paga impuestos)</p>
 
